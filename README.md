@@ -1,1 +1,1 @@
-A simple feedforward neural network that learns to solve the XOR problem using the backpropagation algorithm.
+Implementing basic machine learning programs in C for educational purposes.
